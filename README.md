@@ -18,7 +18,7 @@ The information scraped includes:
 * Business instagram url/username
 * Business description
 
-# Running the scraper
+## Running the scraper
 
 Make sure you have puppeteer installed globally
 
