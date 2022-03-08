@@ -17,3 +17,13 @@ The information scraped includes:
 * Business email address
 * Business instagram url/username
 * Business description
+
+# Running the scraper
+
+Make sure you have puppeteer installed globally
+
+```npm install -g puppeteer```
+
+Clone the repo and run
+
+```node scrape-fb.js```
